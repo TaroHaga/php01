@@ -26,6 +26,7 @@ fclose($file);
 
 <ul>
 <li><a href="post.php">戻る</a></li>
+<li><a href="read.php">結果を見る</a></li>
 </ul>
 </body>
 </html>
