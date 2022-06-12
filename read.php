@@ -15,12 +15,6 @@
     <th>名前</th>
     <th>アドレス</th>
 </tr>
- 
-
-
-
-
-
 
 <?php
 $file = fopen('data/data.txt', 'r'); // ファイルを開く

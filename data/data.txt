@@ -23,3 +23,5 @@
 2022-06-12 16:39:31,yes,yes,芳賀太郎,tareta @gaa
 2022-06-12 16:41:26,yes,yes,芳賀太郎,tareta @gaa
 2022-06-12 16:42:34,yes,yes,芳賀太郎,tareta @gaa
+2022-06-12 17:20:55,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 17:21:12,no,no,芳賀太郎,tareta @gaa
