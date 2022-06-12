@@ -2,8 +2,7 @@
 
 function h($s){
     return htmlspecialchars($s,ENT_QUOTES);
-}
-
+};
 $name = $_POST["name"];
 $mail = $_POST["mail"];
 

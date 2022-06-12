@@ -7,3 +7,19 @@
 2022-06-12 15:33:49,,,芳賀太郎,tareta @ga
 2022-06-12 15:37:45,No,yes,芳賀太郎,tareta @ga
 2022-06-12 15:37:54,yes,No,芳賀太郎,tareta @ga
+2022-06-12 16:23:23,no,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:24:12,yes,yes,芳賀太郎,tareta @gaa
+2022-06-12 16:25:50,yes,no,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:26:17,yes,no,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:30:58,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:31:20,,,,
+2022-06-12 16:33:26,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:34:09,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:34:13,,,,
+2022-06-12 16:34:50,,,,
+2022-06-12 16:34:56,,,,
+2022-06-12 16:35:58,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:37:14,yes,yes,芳賀太郎,taro.haga@mtlo.co.jp
+2022-06-12 16:39:31,yes,yes,芳賀太郎,tareta @gaa
+2022-06-12 16:41:26,yes,yes,芳賀太郎,tareta @gaa
+2022-06-12 16:42:34,yes,yes,芳賀太郎,tareta @gaa
