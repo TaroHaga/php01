@@ -1,10 +1,12 @@
 <?php
+$utada =$_POST["utada"]; 
+$paku = $_POST["paku"];
 $name = $_POST["name"];
 $mail = $_POST["mail"];
 $c = ",";
 
 //文字作成
-$str = date("Y-m-d H:i:s").$c.$name.$c.$mail;
+$str = date("Y-m-d H:i:s").$c.$utada.$c.$paku.$c.$name.$c.$mail;
 //File書き込み
 $file = fopen("data/data.txt","a");	// ファイル読み込み
 fwrite($file, $str."\n");
